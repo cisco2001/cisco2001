@@ -1,4 +1,4 @@
-### Hi there friends 👋
+<p align="center">Hi there friends 👋</p>
 
 <!--
 **cisco2001/cisco2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 I’m currently learning React.js
-- 📫 You can reach me through: [twitter](https://twitter.com/mtwa_mgimwa) and [Linkedin](https://www.linkedin.com/in/mtwa-mgimwa-76b77320a/)
+- 📫 You can connect with me on: [twitter](https://twitter.com/mtwa_mgimwa) and [Linkedin](https://www.linkedin.com/in/mtwa-mgimwa-76b77320a/)
 
 
 
