@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 I’m currently learning React.js
-- 📫 How to reach me: 
+- 📫 You can reach me through: [twitter](https://twitter.com/mtwa_mgimwa) and [Linkedin](https://www.linkedin.com/in/mtwa-mgimwa-76b77320a/)
 
 
