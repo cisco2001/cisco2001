@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 
 ### :man_technologist:
 I am a Backend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Tanzania
-- :telescope: Student at University of Dar es salaam and ALX software engineering course
+- :telescope: Student at University of Dar es salaam, Meta Backend developer course and ALX software engineering course
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Interested in open source development.
 
 - :zap: In my free time, I solve problems on exercism.io and read tech articles.
 
